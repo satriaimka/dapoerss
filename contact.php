@@ -44,7 +44,7 @@ include 'includes/header.php';
                         <div class="method-icon"><i class="ri-map-pin-line"></i></div>
                         <div class="method-info">
                             <h3>Alamat</h3>
-                            <p>Jl. Kue Enak No. 123<br>Jakarta Selatan 12345<br>Indonesia</p>
+                            <p>Jl. Hasanuddin<br>Ibuah<br>Indonesia</p>
                         </div>
                     </div>
                     <div class="contact-method">
@@ -132,11 +132,29 @@ include 'includes/header.php';
     <div class="container">
         <h2 class="section-title">Lokasi <span class="gradient-text">Kami</span></h2>
         <div class="map-container">
-            <div class="map-placeholder">
-                <div class="map-icon"><i class="ri-map-line"></i></div>
-                <h3>Peta Lokasi</h3>
-                <p>Jl. Kue Enak No. 123, Jakarta Selatan</p>
-                <button class="btn btn-outline" onclick="openMap()">Buka di Google Maps</button>
+            <div class="google-map">
+                <iframe 
+                    src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d31918.31973441425!2d100.60010793853901!3d-0.2160055860393415!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x2e2ab500a830787b%3A0xdfeb61a0237eefe1!2sDAPPOER%20SS!5e0!3m2!1sen!2sid!4v1752033755704!5m2!1sen!2sid" 
+                    width="100%" 
+                    height="450" 
+                    style="border:0;" 
+                    allowfullscreen="" 
+                    loading="lazy" 
+                    referrerpolicy="no-referrer-when-downgrade"
+                    title="Lokasi DAPPOER SS">
+                </iframe>
+            </div>
+            <div class="map-info">
+                <div class="map-details">
+                    <h3><i class="ri-map-pin-line"></i> DAPPOER SS</h3>
+                    <div class="map-actions">
+                        <a href="https://www.google.com/maps/place/DAPPOER+SS/@-0.2160056,100.6001079,17z/data=!3m1!4b1!4m6!3m5!1s0x2e2ab500a830787b:0xdfeb61a0237eefe1!8m2!3d-0.2160056!4d100.6026828!16s%2Fg%2F11y3g_1234" 
+                           target="_blank" 
+                           class="btn btn-primary">
+                            <i class="ri-external-link-line"></i> Buka di Google Maps
+                        </a>
+                    </div>
+                </div>
             </div>
         </div>
     </div>

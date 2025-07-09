@@ -36,7 +36,7 @@
                 <div class="footer-section">
                     <h3>Kontak</h3>
                     <div class="contact-info">
-                        <p><i class="ri-map-pin-line"></i> Jl. Kue Enak No. 123, Jakarta Selatan</p>
+                        <p><i class="ri-map-pin-line"></i> Jl. Hasanuddin, Ibuah</p>
                         <p><i class="ri-phone-line"></i> +62 812-3456-7890</p>
                         <p><i class="ri-mail-line"></i> info@dapoerss.com</p>
                         <p><i class="ri-time-line"></i> Senin - Sabtu: 08.00 - 20.00</p>

@@ -35,7 +35,7 @@ include 'includes/header.php';
                 </div>
             </div>
             <div class="story-image">
-                <img src="https://images.unsplash.com/photo-1556909114-f6e7ad7d3136?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3MzkyNDZ8MHwxfHNlYXJjaHwxfHxiYWtlcnklMjBraXRjaGVufGVufDB8fHx8MTc1MDQwMDYzNnww&ixlib=rb-4.1.0&q=80&w=1080" alt="Dapoer SS Kitchen">
+                <img src="https://images.unsplash.com/photo-1696419431496-5135e3fdc61e?q=80&w=1976&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D" alt="Dapoer SS Kitchen">
             </div>
         </div>
     </div>

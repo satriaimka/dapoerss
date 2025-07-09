@@ -462,15 +462,6 @@ function scrollToSection(sectionId) {
   }
 }
 
-function openMap() {
-  const address = "Jl. Kue Enak No. 123, Jakarta Selatan";
-  const encodedAddress = encodeURIComponent(address);
-  window.open(
-    `https://www.google.com/maps/search/?api=1&query=${encodedAddress}`,
-    "_blank"
-  );
-}
-
 function showNotification(message, type = "info") {
   const notification = document.createElement("div");
   notification.style.cssText = `
