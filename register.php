@@ -171,31 +171,17 @@ include 'includes/header.php';
             </div>
             <div class="auth-image">
                 <div class="auth-image-container">
-                    <img src="https://images.unsplash.com/photo-1556909114-f6e7ad7d3136?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3MzkyNDZ8MHwxfHNlYXJjaHwxfHxiYWtlcnklMjBraXRjaGVufGVufDB8fHx8MTc1MDQwMDYzNnww&ixlib=rb-4.1.0&q=80&w=1080" alt="Bakery Kitchen">
+                    <img src="https://images.unsplash.com/photo-1696419431496-5135e3fdc61e?q=80&w=1976&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D" alt="Bakery Kitchen">
                     <div class="auth-overlay">
                         <div class="auth-overlay-content">
                             <h2>Bergabunglah dengan Kami!</h2>
                             <p>Daftar sekarang dan nikmati berbagai keuntungan eksklusif sebagai member Dapoer SS</p>
                             <div class="auth-benefits">
                                 <div class="auth-benefit">
-                                    <i class="ri-discount-percent-line"></i>
-                                    <div>
-                                        <h4>Diskon Member</h4>
-                                        <p>Dapatkan diskon khusus member hingga 20%</p>
-                                    </div>
-                                </div>
-                                <div class="auth-benefit">
                                     <i class="ri-gift-2-line"></i>
                                     <div>
                                         <h4>Birthday Surprise</h4>
                                         <p>Kejutan spesial di hari ulang tahun Anda</p>
-                                    </div>
-                                </div>
-                                <div class="auth-benefit">
-                                    <i class="ri-vip-crown-line"></i>
-                                    <div>
-                                        <h4>Priority Access</h4>
-                                        <p>Akses prioritas untuk produk limited edition</p>
                                     </div>
                                 </div>
                             </div>

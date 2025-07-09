@@ -47,7 +47,7 @@ include 'includes/header.php';
         <div class="auth-content">
             <div class="auth-image">
                 <div class="auth-image-container">
-                    <img src="https://images.unsplash.com/photo-1517427294546-5aa121f68e8a?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3MzkyNDZ8MHwxfHxjYWtlJTIwc2xpY2V8ZW58MHx8fHwxNzUwNDAwNjcwfDA&ixlib=rb-4.1.0&q=80&w=1080" alt="Delicious Cakes">
+                    <img src="https://images.unsplash.com/photo-1621303837174-89787a7d4729?q=80&w=1936&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D" alt="Delicious Cakes">
                     <div class="auth-overlay">
                         <div class="auth-overlay-content">
                             <h2>Selamat Datang Kembali!</h2>

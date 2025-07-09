@@ -87,7 +87,7 @@ $testimonials = [
             </div>
             <div class="hero-image">
                 <div class="hero-img-container">
-                    <img src="https://images.unsplash.com/photo-1621303837174-89787a7d4729?q=80&w=1936&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D" alt="Delicious Cakes" class="hero-img">
+                    <img src="https://images.unsplash.com/photo-1621303837174-89787a7d4729?q=80&w=1080&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D" alt="Delicious Cakes" class="hero-img">
                     
                     <div class="floating-card quality-card">
                         <div class="card-icon"><i class="ri-sparkle-line"></i></div>
